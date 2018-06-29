@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git clone https://github.com/jupyter-scala/jupyter-scala.git
+cd jupyter-scala && ./jupyter-scala
+cd ..
